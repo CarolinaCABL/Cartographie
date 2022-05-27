@@ -126,4 +126,4 @@ parc_region +  tm_shape(region_logts_com) +
   
  ##### Résultat: 
    
-  <img src= https://github.com/CarolinaCABL/Cartographie/blob/main/eff_region.PNG />
+  <img src= https://github.com/CarolinaCABL/Cartographie/blob/main/eff_rhone.PNG />
