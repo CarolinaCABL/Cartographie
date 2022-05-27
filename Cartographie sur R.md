@@ -118,6 +118,12 @@ parc_region +  tm_shape(region_logts_com) +
   
   ```
   
-  ##### Résultat: 
+ ##### Résultat: 
   
+  <img src= https://github.com/CarolinaCABL/Cartographie/blob/main/eff_region.PNG />
   
+ ###### Rhône
+  
+ ##### Résultat: 
+   
+  <img src= https://github.com/CarolinaCABL/Cartographie/blob/main/eff_region.PNG />
